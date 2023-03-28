@@ -6,9 +6,9 @@ Create your sloths fooball team and play matches with other players.
 
 Site: www.lazy.soccer/
 
-Soft:
+Soft & Services:
 ---
-Unity 3d, Jet-Brains Rider, Adobe Illustrator, Adobe Premiere Pro, Notion, XMind
+Unity 3d, Jet-Brains Rider, Figma, Swagger UI (REST API)
 
 Assets & Integrations:
 ---
