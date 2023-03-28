@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dab07018b36448f8a731e2febe9ab72, type: 3}
+  m_Name: MarketDbURL
+  m_EditorClassIdentifier: 
+  dictionatyURL:
+    keyData: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    valueData:
+    - Market/Transfers/All
+    - Market/Transfers
+    - Market/PlayerForTransfer
+    - Market/PlayerForTransfer/Cancel
+    - Market/PlayerForTransfer/SendPriceOffer
+    - Market/InGameShop
+    - Market/Inventory
+    - Market/InGameShop/BuyBox
+    - Market/InGameShop/OpenBox
+    - Market/InGameShop/UseLoot
+    - Market/Offers

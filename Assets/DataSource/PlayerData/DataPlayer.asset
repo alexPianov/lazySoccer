@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80ca79ddd64a5cc48b8e7aa959a8b1df, type: 3}
+  m_Name: DataPlayer
+  m_EditorClassIdentifier: 
+  m_Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJweWFub3YuYm9va0BnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiQWxleDEzMzciLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJNYW5hZ2VyIiwiVXNlcklkIjoiOTMxYzU4ODMtNTgwMi00N2ExLWE5MGQtM2E5YWU5YmIxMTllIiwiZXhwIjoxNjcyMjM5NjMwLCJpc3MiOiJMYXp5U29jY2VyU2VydmVyIiwiYXVkIjoiTGF6eVNvY2NlckNsaWVudCJ9.ZLt1dUDlKoh2gr1DLU_f1q4GwodI27evSCviH0dATC8
+  m_UserId: 931c5883-5802-47a1-a90d-3a9ae9bb119e
+  m_TeamId: 5
+  m_Email: rootsnwonky@gmail.com
+  m_UserName: Alex1337
+  m_Password: 12344321Ls!
+  m_PasswordConfirm: 12344321Ls!
+  m_Code: KevFbQ4M
+  m_Pin: 
+  m_Season: 0
+  authenticationBarCodeImage: 
+  authenticationManualCode: 
+  m_isFreeNameChange: 1
+  m_Language:
+    _value: 1
+  m_2FA:
+    _value: 0

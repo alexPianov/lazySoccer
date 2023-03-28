@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77cf354872c945feb737306b1c5dc191, type: 3}
+  m_Name: EmblemSprites
+  m_EditorClassIdentifier: 
+  emblems:
+  - emblemId: 0
+    emblemSprite: {fileID: 21300000, guid: dd862bc2742ae406fac41e46615fdc4a, type: 3}
+  - emblemId: 1
+    emblemSprite: {fileID: 21300000, guid: 29decc6a0f4aa4741bc6b78619c63199, type: 3}
+  - emblemId: 2
+    emblemSprite: {fileID: 21300000, guid: 532ce5c2a08c4469294290852930f845, type: 3}
+  - emblemId: 3
+    emblemSprite: {fileID: 21300000, guid: b9e69f81ab9bb4340b1a4f0cf1741d40, type: 3}
+  - emblemId: 4
+    emblemSprite: {fileID: 21300000, guid: 5a814cac64e9c4f2fa045e28883786ba, type: 3}
+  - emblemId: 5
+    emblemSprite: {fileID: 21300000, guid: 11891b1144c3149caadb4d2fc33c920c, type: 3}
+  - emblemId: 6
+    emblemSprite: {fileID: 21300000, guid: 660000dd7c92e487aaae73b20211173d, type: 3}
+  - emblemId: 7
+    emblemSprite: {fileID: 21300000, guid: 29c3c6d5f62164a649e3ecf1bcd55eb8, type: 3}
+  - emblemId: 8
+    emblemSprite: {fileID: 21300000, guid: 30169163671a049c7a6a79eae288d496, type: 3}
+  - emblemId: 9
+    emblemSprite: {fileID: 21300000, guid: e308dec7053b04e68be682fb71d68dd4, type: 3}
+  - emblemId: 10
+    emblemSprite: {fileID: 21300000, guid: 26d61785054f742eca5089ec7114a02b, type: 3}
+  - emblemId: 11
+    emblemSprite: {fileID: 21300000, guid: e086e9d7efbab48a6b72d2b8d646fde8, type: 3}
+  - emblemId: 12
+    emblemSprite: {fileID: 21300000, guid: bbbb64b55b6ff4ead9cbd474ab753c9d, type: 3}
+  - emblemId: 13
+    emblemSprite: {fileID: 21300000, guid: 47b7c0a97e38646aa8c09520f59a2fd4, type: 3}
+  - emblemId: 14
+    emblemSprite: {fileID: 21300000, guid: 7809ca8548ce9407184c384495791092, type: 3}
+  - emblemId: 15
+    emblemSprite: {fileID: 21300000, guid: 2593ff6ac5a734a67b11f3ab80cf90f4, type: 3}
+  - emblemId: 16
+    emblemSprite: {fileID: 21300000, guid: ab8ef72e031e846be98fb6843a58e787, type: 3}
+  - emblemId: 17
+    emblemSprite: {fileID: 21300000, guid: ff7cfa671b2e6434d953291b836863ec, type: 3}
+  - emblemId: 18
+    emblemSprite: {fileID: 21300000, guid: f144f8674192146a892c9cd9436512ae, type: 3}
+  - emblemId: 19
+    emblemSprite: {fileID: 21300000, guid: 7e7d0c3192caa49898d393956a262567, type: 3}
+  - emblemId: 20
+    emblemSprite: {fileID: 21300000, guid: 34a31cef33a5146dcabfb0d172c70eb7, type: 3}
+  - emblemId: 21
+    emblemSprite: {fileID: 21300000, guid: 78ccd424546c948e89012afddec970f4, type: 3}
+  - emblemId: 22
+    emblemSprite: {fileID: 21300000, guid: 07c549b98a24849b4b37c51520da84b8, type: 3}
+  - emblemId: 23
+    emblemSprite: {fileID: 21300000, guid: e88462ab499864a749be2b0b8a13e522, type: 3}
+  - emblemId: 24
+    emblemSprite: {fileID: 21300000, guid: 6de0e81e045b04845bae9232c9d84586, type: 3}
+  - emblemId: 25
+    emblemSprite: {fileID: 21300000, guid: 4982644fd215345558355c7b8e583d77, type: 3}
+  - emblemId: 26
+    emblemSprite: {fileID: 21300000, guid: 21cd127a4687e4c47930c101beae313b, type: 3}
+  - emblemId: 27
+    emblemSprite: {fileID: 21300000, guid: 9ee4764caf30a41179f66fed65b9f27e, type: 3}
+  - emblemId: 28
+    emblemSprite: {fileID: 21300000, guid: b66b3918a7b934e488ae3994f652d484, type: 3}
+  - emblemId: 29
+    emblemSprite: {fileID: 21300000, guid: c746ab8dc3c924e0fb8c9d4070656a11, type: 3}
+  - emblemId: 30
+    emblemSprite: {fileID: 21300000, guid: debfb2fa8a3d346a48a5a0cee4587505, type: 3}
+  - emblemId: 31
+    emblemSprite: {fileID: 21300000, guid: 2dc481a7343cd4d78ba9834f9b7ad182, type: 3}
+  - emblemId: 32
+    emblemSprite: {fileID: 21300000, guid: 354e190d2ff0b4b288a1597ee2061804, type: 3}
+  - emblemId: 33
+    emblemSprite: {fileID: 21300000, guid: ac4597319261541999288dacb6f25caa, type: 3}
+  - emblemId: 34
+    emblemSprite: {fileID: 21300000, guid: 7fa60459a68fa44c287ef0203f2e6cd9, type: 3}
+  - emblemId: 35
+    emblemSprite: {fileID: 21300000, guid: 0fc4d855b98564c6585451b818e87f86, type: 3}
+  - emblemId: 36
+    emblemSprite: {fileID: 21300000, guid: 8362e4b12bdef484d94d51bd48e93486, type: 3}
+  - emblemId: 37
+    emblemSprite: {fileID: 21300000, guid: bbfe1a93d53b64e718bfc296b3d085e5, type: 3}
+  - emblemId: 38
+    emblemSprite: {fileID: 21300000, guid: cbbecaa46af42419894fa77e89bac920, type: 3}
+  - emblemId: 39
+    emblemSprite: {fileID: 21300000, guid: 2f0540113948c457cb0b45d3ed421211, type: 3}
+  - emblemId: 40
+    emblemSprite: {fileID: 21300000, guid: a6e7fc9d5ac55489886052c647ac7728, type: 3}
+  - emblemId: 41
+    emblemSprite: {fileID: 21300000, guid: 3b0e9629385a84bdd9aeaa1ed127f064, type: 3}
+  - emblemId: 42
+    emblemSprite: {fileID: 21300000, guid: d64e0eedfad6946899c2ab706dd3b479, type: 3}
+  - emblemId: 43
+    emblemSprite: {fileID: 21300000, guid: cc1e90c81b54f4fa78a843f6140f5949, type: 3}
+  - emblemId: 44
+    emblemSprite: {fileID: 21300000, guid: 1d5bbda21c6fd4cd3a1921ed68ea1a65, type: 3}
+  - emblemId: 45
+    emblemSprite: {fileID: 21300000, guid: 4da1d79accdb745f59b228241dc616e6, type: 3}
+  - emblemId: 46
+    emblemSprite: {fileID: 21300000, guid: 7223ea396b57047b789e39b6ac75bcaa, type: 3}
+  - emblemId: 47
+    emblemSprite: {fileID: 21300000, guid: 945e1fcbf3001474eaae13d06bbe91be, type: 3}
+  - emblemId: 48
+    emblemSprite: {fileID: 21300000, guid: 0ade48c715222466ebea4d7e7d13adfa, type: 3}
+  - emblemId: 49
+    emblemSprite: {fileID: 21300000, guid: 2f75fc055cc4c41a6a7b4fc1c716abed, type: 3}
+  - emblemId: 50
+    emblemSprite: {fileID: 21300000, guid: 7018bfc4bf1e34bc4b807b41e04fd37b, type: 3}
+  - emblemId: 51
+    emblemSprite: {fileID: 21300000, guid: 30feddde070164dd2a51177e445a81a2, type: 3}
+  - emblemId: 52
+    emblemSprite: {fileID: 21300000, guid: 7144a949dd93047e3b1cbbaf42d7b9e2, type: 3}
+  - emblemId: 53
+    emblemSprite: {fileID: 21300000, guid: a7fb279f8ad6e4c83b263e8ab922c1e3, type: 3}
+  - emblemId: 54
+    emblemSprite: {fileID: 21300000, guid: 2fae81fee36dd4e32abdac9a5fd42c93, type: 3}

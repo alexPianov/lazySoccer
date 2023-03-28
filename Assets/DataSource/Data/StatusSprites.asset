@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 247742b6b64e439a8f3dfaa1f9304039, type: 3}
+  m_Name: StatusSprites
+  m_EditorClassIdentifier: 
+  statusSpriteList:
+  - Status: 0
+    statusSprite: {fileID: 21300000, guid: 878f534a729f246f5aeae34245c7b104, type: 3}
+  - Status: 1
+    statusSprite: {fileID: 21300000, guid: 4d73ee79c946e4a92b1c256ced61a3a2, type: 3}
+  - Status: 2
+    statusSprite: {fileID: 21300000, guid: 303331be1d2064d6fbb5addd22fadc3b, type: 3}
+  - Status: 3
+    statusSprite: {fileID: 21300000, guid: 3a0201ddefa1047cc8fb1eb4c9977db6, type: 3}
+  - Status: 4
+    statusSprite: {fileID: 21300000, guid: 43b1019898a954414a490742fbf9ccc8, type: 3}
+  - Status: 5
+    statusSprite: {fileID: 21300000, guid: 8478a5920a3f44eab97efe3894c49b4c, type: 3}
+  - Status: 6
+    statusSprite: {fileID: 21300000, guid: d7a94458d7175495a81afc72919c48de, type: 3}
+  - Status: 7
+    statusSprite: {fileID: 21300000, guid: 09c3894c1d8664da78fa9c09ecd6cd0f, type: 3}
+  - Status: 8
+    statusSprite: {fileID: 21300000, guid: bd13e571bab74416d93fdfe099e65adb, type: 3}
+  - Status: 9
+    statusSprite: {fileID: 21300000, guid: e5588c446449c4929bc0ca93c578725b, type: 3}
+  - Status: 10
+    statusSprite: {fileID: 21300000, guid: 7ddd9ba0aa02d423c955fb15f520f264, type: 3}
+  - Status: 14
+    statusSprite: {fileID: 21300000, guid: 7ecd55cb517114191a1a939577fee230, type: 3}

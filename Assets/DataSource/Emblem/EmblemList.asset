@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c7f0e2cc73de8c41b197c2a344b5a74, type: 3}
+  m_Name: EmblemList
+  m_EditorClassIdentifier: 
+  BaseContainerEmblem: {fileID: 4441287591302390040, guid: fe08987753e80f945a5970bfd3c29a8f, type: 3}
+  Emblems:
+    keyData: 010000000200000003000000
+    valueData:
+    - {fileID: 21300000, guid: 29c8044229e85fc45a80433faa8201e3, type: 3}
+    - {fileID: 21300000, guid: b4423c5516472664f9266822ffffcad1, type: 3}
+    - {fileID: 21300000, guid: 495eafbc25c54064e8228ac079efbcf2, type: 3}
+  emblem:
+  - {fileID: 21300000, guid: 29c8044229e85fc45a80433faa8201e3, type: 3}
+  - {fileID: 21300000, guid: b4423c5516472664f9266822ffffcad1, type: 3}
+  - {fileID: 21300000, guid: 495eafbc25c54064e8228ac079efbcf2, type: 3}

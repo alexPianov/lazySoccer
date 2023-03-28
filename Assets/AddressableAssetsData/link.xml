@@ -1,0 +1,531 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="__Project.Scripts.Buildings.StadiumDivision.StadiumTournamentsButton" preserve="all" />
+    <type fullname="ActivePanelHouse" preserve="all" />
+    <type fullname="BallManager" preserve="all" />
+    <type fullname="Building" preserve="all" />
+    <type fullname="BuildingScreenSwitcher" preserve="all" />
+    <type fullname="CalendarController" preserve="all" />
+    <type fullname="CalendarDateItem" preserve="all" />
+    <type fullname="CommunityDbURL" preserve="all" />
+    <type fullname="ConformationCode" preserve="all" />
+    <type fullname="CreateTeamWindows" preserve="all" />
+    <type fullname="DanielLochner.Assets.SimpleScrollSnap.DynamicContent" preserve="all" />
+    <type fullname="FieldStorage" preserve="all" />
+    <type fullname="FindValidationContainer" preserve="all" />
+    <type fullname="FitnessCenterMessages" preserve="all" />
+    <type fullname="GameSettingsManager" preserve="all" />
+    <type fullname="GroupButtonsAuth" preserve="all" />
+    <type fullname="GroupButtonsOffice" preserve="all" />
+    <type fullname="GroupButtonsOfficeCustomize" preserve="all" />
+    <type fullname="GroupButtonsOfficePlayer" preserve="all" />
+    <type fullname="I2.Loc.LanguageSource" preserve="all" />
+    <type fullname="I2.Loc.LocalizationParamsManager" preserve="all" />
+    <type fullname="I2.Loc.Localize" preserve="all" />
+    <type fullname="I2.Loc.LocalizeDropdown" preserve="all" />
+    <type fullname="I2.Loc.LocalizeTarget_TextMeshPro_UGUI" preserve="all" />
+    <type fullname="LazySoccer.Popup.BuildingInformation" preserve="all" />
+    <type fullname="LazySoccer.Popup.QuestionPopup" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.AllStatus.MarketPlayerWindows" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsFind" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsListGroupUpdate" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsRequests" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsSlotAdded" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsSlotFound" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsSlotIncome" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendsSlotOutcome" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterFriendStatusCheck" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterLeaders" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenter.CommunityCenterLeaderSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriend.CommunityCenterFriend" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriend.CommunityCenterFriendBang" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriend.CommunityCenterFriendButtons" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriend.CommunityCenterFriendStatistics" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriend.CommunityCenterFriendTeamTable" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriendlyMatches.CommunityCenterFriendlyMatches" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriendlyMatches.CommunityCenterFriendlyMatchesPlanner" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterFriendlyMatches.CommunityCenterFriendlyMatchesSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterFriendBuildings" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterFriendBuildingSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnion" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionBuilding" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionBuildingContributors" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionBuildingContributorSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionBuildingDonate" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionBuildings" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionBuildingSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionButtons" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionDisplay" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionGroupButtons" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionMembers" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionMemberSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnion.CommunityCenterUnionMemberStatus" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionCreate.CommunityCenterUnionCreate" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionCreate.CommunityCenterUnionCreateInvites" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionCreate.CommunityCenterUnionCreateInviteSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionCreate.CommunityCenterUnionCreateName" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionCreate.CommunityCenterUnionEmblem" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionCreate.CommunityCenterUnionEmblemFactory" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionRequests.CommunityCenterUnionRequests" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionRequests.CommunityCenterUnionRequestSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnions" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionsCreateButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionsFilter" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionsJoinRequest" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionSlotInvite" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionsMode" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnions.CommunityCenterUnionsUpdate" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.CommunityCenterUnionSettings.CommunityCenterUnionSettings" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketInGameShopList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketInGameShopSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketInventoryList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketInventorySlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketItemDisplay" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketItemPlayerPicker" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketItemPlayerSkillPicker" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayer" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayerButtonsEdit" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayerButtonsOffer" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayerInfo" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayerOffer" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayerOfferList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketPlayerOfferSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketTransferDeadlinePlanner" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketTransferEdit" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketTransfers" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketTransfersFilter" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MarketTransfers.MarketTransferSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MedicalCenter.MedicalCenterMemberButtons" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MedicalCenter.MedicalCenterMemberList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.MedicalCenter.OfficeTeamTable" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeBalance.OfficeBalance" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeBalance.OfficeBalancePieGraph" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeBalance.OfficeBalanceSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeCustomize.OfficeCustomizeUniformPatternButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeCustomize.OfficeCustomizeUniformSave" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeCustomize.UniformPatterns" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeEmblem.OfficeCustomizeEmblem" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeEmblem.OfficeCustomizeEmblemFactory" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeEmblem.OfficeCustomizeEmblemSlotFromPopup" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayer" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerStatistics" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerStatisticsPerformance" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerStatisticsRewardsList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerStatisticsTrophyList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerTraitList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerTraitSkills" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerTraitSpeciality" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.OfficePlayerTraitStatus" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.PlayerInformation" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.PlayerTraits" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayerHistory.OfficePlayerHistory" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayerHistory.OfficePlayerHistoryMatchesList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayerHistory.OfficePlayerHistoryTransferList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeStatistics.OfficeStatistics" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeStatistics.OfficeStatisticsBuildingList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeStatistics.OfficeStatisticsPosition" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeStatistics.OfficeStatisticsRewardList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeStatistics.OfficeStatisticsTrophiesList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeUniform.OfficeCustomizeUniformPatternEditor" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeUniform.OfficeCustomizeUniformPatternSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.SportSchool.SportSchool" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.SportSchool.SportSchoolFX" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumDivisionGroupStandingsSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumGamesTree" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumGamesTreeDetail" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumGamesTreeDetailButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumGamesTreeGroup" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumMatches" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumMatchesAll" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumMatchesOpen" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumMatchesUpdate" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumSlotMatch" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.Stadium.StadiumTournaments" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumBuilding.StadiumBuildingFeatures" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumCountries.StadiumDivisionsButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumDivision.StadiumDivision" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumDivisionGroupStandings.StadiumDivisionGroupStandings" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumDivisions.StadiumDivisions" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumDivisions.StadiumDivisionsCountryButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumDivisions.StadiumDivisionsCountryList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumDivisionUpcomingMatches.StadiumDivisionSchedule" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumFriendlyMatches.StadiumFriendlyMatches" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatch.StadiumMatch" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatch.StadiumMatchReplay" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatchSettings.StadiumMatchLineupTeamTable" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatchStatistics.StadiumMatchStatistics" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatchStatistics.StadiumMatchStatisticsLineup" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatchStatistics.StadiumMatchStatisticsReplaces" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatchStatistics.StadiumMatchStatisticsReplacesSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.StadiumMatchStatistics.StadiumMatchStatisticsRow" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TrainingCenter.FitnessCenterMemberButtons" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TrainingCenter.FitnessCenterMemberList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TrainingCenter.TrainingCenterMemberButtons" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TrainingCenter.TrainingCenterMemberList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TrainingCenter.TrainingCenterMemberSkill" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TrainingCenter.TrainingCenterMessages" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.TransfersFilterSettings" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.UnionFilterSettings" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Audio.AudioButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Centers.CenterMemberDisplay" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Centers.CenterTeamTable" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Customize.CustomizeTeamEmblemFactory" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.ModalWindows.ModalChangeCurrentEmailCode" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.ModalWindows.ModalChangeLanguageSlot" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.ModalWindows.ModalTwoFA" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.ModalWindows.ModalTwoFaPin" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.ModalWindows.ModalWallet" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.ModalWindows.ModalWalletEvents" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationRestorePassword" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationRestorePasswordCode" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationRestorePasswordNew" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamCreate" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamEmbem" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamName" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamPlayerDisplay" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamPlayersList" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamPlayersSave" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamPlayersTutorial" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamUniform" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.Registration.RegistrationTeamUniformButton" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.Infrastructure.VisualEffects.VisualEffectsListener" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.TextLink.ExternalLinkController" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsCommunityCenter" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsCommunityCenterFriend" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsCommunityCenterPopup" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsCommunityCenterUnion" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsCreateTeamOptions" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsMarket" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsMarketPlayer" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsMarketPopup" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsOfficeCustomizeForm" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsRegistrationCustomizeForm" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsStadium" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsStadiumMatchOld" preserve="all" />
+    <type fullname="LazySoccer.SceneLoading.UI.GroupButtonsStadiumTournament" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayer" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerFactorySort" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerForm" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerMatch" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerMed" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerReward" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerSkill" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerTraining" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerTrait" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerTransfer" preserve="all" />
+    <type fullname="LazySoccer.Table.SlotPlayerTrophy" preserve="all" />
+    <type fullname="LazySoccer.User.Uniform.SlotColorScheme" preserve="all" />
+    <type fullname="LazySoccer.Windows.AuthenticationWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.BackgroundWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.BuildingWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.CommunityCenterFriendWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.CommunityCenterPopupWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.CommunityCenterUnionWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.CommunityCenterWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.CreateTeamOptionsWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.MarketPopupWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.MarketWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.ModalWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.OfficeCustomizeFormWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.OfficeCustomizeWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.OfficePlayerWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.OfficeWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.PopupWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.RegistrationCustomizeFormWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.StadiumLeagueWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.StadiumMatchOldWindows" preserve="all" />
+    <type fullname="LazySoccer.Windows.StadiumWindows" preserve="all" />
+    <type fullname="LineupsStorage" preserve="all" />
+    <type fullname="LogInManager" preserve="all" />
+    <type fullname="MapBuildings" preserve="all" />
+    <type fullname="MatchDataParser" preserve="all" />
+    <type fullname="MatchSettingsManager" preserve="all" />
+    <type fullname="MedicalCenterMessages" preserve="all" />
+    <type fullname="MetaMask.Unity.Samples.MetaMaskDemo" preserve="all" />
+    <type fullname="MetaMask.Unity.Samples.ModalPrefabs" preserve="all" />
+    <type fullname="MetaMask.Unity.Samples.TweenIn" preserve="all" />
+    <type fullname="MetaMask.Unity.Samples.UIModal" preserve="all" />
+    <type fullname="MetaMask.Unity.Samples.UIModalManager" preserve="all" />
+    <type fullname="ModalChangeCurrentEmail" preserve="all" />
+    <type fullname="ModalChangeCurrentPassword" preserve="all" />
+    <type fullname="ModalChangeLanguage" preserve="all" />
+    <type fullname="ModalChangeName" preserve="all" />
+    <type fullname="Nox7atra.UIFigmaGradients.UIFigmaGradientLinearDrawer" preserve="all" />
+    <type fullname="OfficeBalanceMonthGraph" preserve="all" />
+    <type fullname="OfficeCustomizeEmblemSlot" preserve="all" />
+    <type fullname="OfficeCustomizeTeamName" preserve="all" />
+    <type fullname="OfficeCustomizeUniformPattern" preserve="all" />
+    <type fullname="OfficeCustomizeUniformPatternColorSlider" preserve="all" />
+    <type fullname="OfficeCustomizeUniformPatternManager" preserve="all" />
+    <type fullname="OfficePlayerTraits" preserve="all" />
+    <type fullname="OfficeStatisticsBuildingSlot" preserve="all" />
+    <type fullname="OfficeStatisticsRewardSlot" preserve="all" />
+    <type fullname="OfficeStatisticsTrophiesSlot" preserve="all" />
+    <type fullname="PasswordEnable" preserve="all" />
+    <type fullname="PlayerManager" preserve="all" />
+    <type fullname="PlayerPlaceholder" preserve="all" />
+    <type fullname="PlayerPlaceholdersStorage" preserve="all" />
+    <type fullname="PlayerSlotConstructor" preserve="all" />
+    <type fullname="Playstel.UiTransparency" preserve="all" />
+    <type fullname="PositionInfoStorage" preserve="all" />
+    <type fullname="PositionPicker" preserve="all" />
+    <type fullname="PositionsStorage" preserve="all" />
+    <type fullname="ProfileBang" preserve="all" />
+    <type fullname="ProfileLayoutProfile" preserve="all" />
+    <type fullname="RowStorage" preserve="all" />
+    <type fullname="ScreenController" preserve="all" />
+    <type fullname="SignUp" preserve="all" />
+    <type fullname="SlotPlayerColor" preserve="all" />
+    <type fullname="StatusPopupManager" preserve="all" />
+    <type fullname="TeamRosterManager" preserve="all" />
+    <type fullname="TeamStorage" preserve="all" />
+    <type fullname="TimerBuilding" preserve="all" />
+    <type fullname="TurnManager" preserve="all" />
+    <type fullname="TwoFactorAuth" preserve="all" />
+    <type fullname="UiUtilsExpand" preserve="all" />
+    <type fullname="UiUtilsExpandGroup" preserve="all" />
+    <type fullname="ValidationField" preserve="all" />
+    <type fullname="CommunityDbRequest" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LanguageData" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LanguageSourceData" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LocalizationParamsManager/ParamValue" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.TermData" preserve="nothing" serialized="true" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficeCustomize.UniformPatterns/UniformPattern" preserve="nothing" serialized="true" />
+    <type fullname="LazySoccer.SceneLoading.Buildings.OfficePlayer.PlayerTraits/Trait" preserve="nothing" serialized="true" />
+    <type fullname="LineupPosition" preserve="nothing" serialized="true" />
+    <type fullname="MatchConfiguration" preserve="nothing" serialized="true" />
+    <type fullname="MetaMask.Unity.Samples.ModalPrefabData" preserve="nothing" serialized="true" />
+    <type fullname="PositionInfo" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="AstarPathfindingProject, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AstarPath" preserve="all" />
+    <type fullname="Pathfinding.AIDestinationSetter" preserve="all" />
+    <type fullname="Pathfinding.AIPath" preserve="all" />
+    <type fullname="Pathfinding.RVO.RVOController" preserve="all" />
+    <type fullname="Pathfinding.RVO.RVONavmesh" preserve="all" />
+    <type fullname="Pathfinding.RVO.RVOSimulator" preserve="all" />
+    <type fullname="Pathfinding.Seeker" preserve="all" />
+    <type fullname="Pathfinding.AstarColor" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.AstarData" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.AutoRepathPolicy" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.EuclideanEmbedding" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.GraphMask" preserve="nothing" serialized="true" />
+    <type fullname="Pathfinding.StartEndModifier" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="CFXRRuntime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CartoonFX.CFXR_Effect" preserve="all" />
+    <type fullname="CartoonFX.CFXR_Effect/AnimatedLight" preserve="nothing" serialized="true" />
+    <type fullname="CartoonFX.CFXR_Effect/CameraShake" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LeanGUI, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Gui.LeanButton" preserve="all" />
+    <type fullname="Lean.Gui.LeanToggle" preserve="all" />
+  </assembly>
+  <assembly fullname="LeanTransition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Lean.Transition.LeanTransition" preserve="all" />
+    <type fullname="Lean.Transition.Method.LeanGraphicColor" preserve="all" />
+    <type fullname="Lean.Transition.Method.LeanPlaySound" preserve="all" />
+    <type fullname="Lean.Transition.LeanPlayer" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Transition.LeanPlayer/Entry" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Transition.Method.LeanGraphicColor/State" preserve="nothing" serialized="true" />
+    <type fullname="Lean.Transition.Method.LeanPlaySound/State" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="LokoSolo.PinchableScrollRect, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.PinchInputDetector" preserve="all" />
+    <type fullname="UnityEngine.UI.PinchableScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.PinchableScrollRect/PinchEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="MetaMaskUnity.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="MetaMask.Transports.Unity.MetaMaskUnityTransportBroadcaster" preserve="all" />
+    <type fullname="MetaMask.Transports.Unity.UI.MetaMaskUnityUIQRImage" preserve="all" />
+    <type fullname="MetaMask.Unity.MetaMaskConfig" preserve="all" />
+    <type fullname="MetaMask.Unity.MetaMaskUnity" preserve="all" />
+  </assembly>
+  <assembly fullname="SimpleScrollSnap, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="DanielLochner.Assets.SimpleScrollSnap.SimpleScrollSnap" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Boolean]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.String]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[System.Int32,System.Int32]" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`2[UnityEngine.GameObject,System.Single]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="XCharts.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="XCharts.Runtime.ChartLabel" preserve="all" />
+    <type fullname="XCharts.Runtime.LineChart" preserve="all" />
+    <type fullname="XCharts.Runtime.Painter" preserve="all" />
+    <type fullname="XCharts.Runtime.PieChart" preserve="all" />
+    <type fullname="XCharts.Runtime.Theme" preserve="all" />
+    <type fullname="XCharts.Runtime.AnimationStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AreaStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.ArrowStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisLabel" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisLine" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisMinorSplitLine" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisMinorTick" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisName" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisSplitArea" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisSplitLine" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.AxisTick" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.ChartText" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.ComponentTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.DataZoomTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.DebugInfo" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.GridCoord" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.IconStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.ImageStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.ItemStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.LabelLine" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.LabelStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Legend" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.LegendTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Line" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.LineStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Location" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Padding" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Pie" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.SerieData" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.SerieSymbol" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.SerieTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Settings" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.SubTitleTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.SymbolStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.TextLimit" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.TextPadding" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.TextStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.ThemeStyle" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Title" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.TitleTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.Tooltip" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.TooltipTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.VisualMapTheme" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.XAxis" preserve="nothing" serialized="true" />
+    <type fullname="XCharts.Runtime.YAxis" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="SimpleInspectorAttributes">
+    <type fullname="DanielLochner.Assets.Margins" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

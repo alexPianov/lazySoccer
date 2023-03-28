@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ba37d0d2eb44a54b9a7de51e141a275, type: 3}
+  m_Name: CommunityDbURL
+  m_EditorClassIdentifier: 
+  dictionatyURL:
+    keyData: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d000000
+    valueData:
+    - CommunicationCenter/Rating/World
+    - CommunicationCenter/Rating/DivisionTest
+    - CommunicationCenter/Friend/Users
+    - CommunicationCenter/Friend
+    - CommunicationCenter/Friend/Requests
+    - CommunicationCenter/Friend/Request/Friendship
+    - CommunicationCenter/Friend/Request/Friendship/Confirm
+    - CommunicationCenter/Friend/Request/Reject
+    - CommunicationCenter/Friend/Delete
+    - CommunicationCenter/Union
+    - CommunicationCenter/Union/Profile
+    - CommunicationCenter/Union/Profile
+    - CommunicationCenter/Union/Requests
+    - CommunicationCenter/Union/Create
+    - CommunicationCenter/Union/Request/Join
+    - CommunicationCenter/Union/Request/Accept
+    - CommunicationCenter/Union/Request/Delete
+    - CommunicationCenter/Union/Member/Demote
+    - CommunicationCenter/Union/Member/Kick
+    - CommunicationCenter/Union/Member/Promote
+    - CommunicationCenter/Union/Update
+    - CommunicationCenter/Union/Update/Building
+    - CommunicationCenter/Union/Donation/Start
+    - CommunicationCenter/Union/Donation/Abort
+    - CommunicationCenter/Union/Donate
+    - CommunicationCenter/Friend/Request/FriendlyMatch
+    - CommunicationCenter/Union/Emblem
+    - CommunicationCenter/Union/Request/InviteUsers
+    - CommunicationCenter/Union/Requests/User
+    - CommunicationCenter/Friend/Request/FriendlyMatch/Confirm

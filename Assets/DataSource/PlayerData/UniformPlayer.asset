@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc790d82a51bcf4c934c4c97be4e49a, type: 3}
+  m_Name: UniformPlayer
+  m_EditorClassIdentifier: 
+  uniform:
+    keyData: 000000000100000002000000
+    valueData:
+    - id: 3
+      color1: {r: 0, g: 0.5968452, b: 0.038465835, a: 1}
+      color2: {r: 0.07332041, g: 0.9065662, b: 0, a: 1}
+    - id: 4
+      color1: {r: 0.63796353, g: 0.76821685, b: 0, a: 1}
+      color2: {r: 0.5758353, g: 0, b: 0.39976135, a: 1}
+    - id: 3
+      color1: {r: 0, g: 0.13755415, b: 0.56016695, a: 1}
+      color2: {r: 0.7004397, g: 0, b: 0.94761515, a: 1}
+  allUniform:
+    keyData: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+    valueData:
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+    - uniformShorts: {fileID: 0}
+      uniformShirt: {fileID: 0}
+      uniformDetails: {fileID: 0}
+  pattern:
+  - uniformShorts: {fileID: 0}
+    uniformShirt: {fileID: 0}
+    colorUniformShirt: {r: 0, g: 0.68239003, b: 0.30232796, a: 1}
+    uniformDetails: {fileID: 0}
+    colorUniformDetails: {r: 0.54436415, g: 0, b: 0.45339313, a: 1}
+  - uniformShorts: {fileID: 0}
+    uniformShirt: {fileID: 0}
+    colorUniformShirt: {r: 0.9782862, g: 0.6889884, b: 0, a: 1}
+    uniformDetails: {fileID: 0}
+    colorUniformDetails: {r: 0.028762475, g: 0, b: 0.6911404, a: 1}
+  - uniformShorts: {fileID: 0}
+    uniformShirt: {fileID: 0}
+    colorUniformShirt: {r: 0, g: 0.8681418, b: 0.08464245, a: 1}
+    uniformDetails: {fileID: 0}
+    colorUniformDetails: {r: 0.3875667, g: 0, b: 0.63795674, a: 1}
+  - uniformShorts: {fileID: 0}
+    uniformShirt: {fileID: 0}
+    colorUniformShirt: {r: 0.50570273, g: 0.43489748, b: 0, a: 1}
+    uniformDetails: {fileID: 0}
+    colorUniformDetails: {r: 0, g: 0.6969007, b: 0.82845235, a: 1}
+  - uniformShorts: {fileID: 0}
+    uniformShirt: {fileID: 0}
+    colorUniformShirt: {r: 0.17855068, g: 0, b: 0.9825089, a: 1}
+    uniformDetails: {fileID: 0}
+    colorUniformDetails: {r: 0.87650585, g: 0.50926954, b: 0, a: 1}

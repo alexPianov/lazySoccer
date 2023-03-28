@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339118b910c7b479ba1a13c6cc6e1748, type: 3}
+  m_Name: Traits
+  m_EditorClassIdentifier: 
+  traits:
+  - traitNameEnum: 7
+    traitName: Weak
+    traitAbbreviation: Wk
+    traitDescription: x1,25 physical form loss for all activities.
+    traitRarity: Rare
+    traitIsNegative: 1
+  - traitNameEnum: 6
+    traitName: Unfit
+    traitAbbreviation: Uft
+    traitDescription: x1,15 physical form loss for all activities.
+    traitRarity: Common
+    traitIsNegative: 1
+  - traitNameEnum: 5
+    traitName: Athletic
+    traitAbbreviation: Ath
+    traitDescription: "\u04450,75 physical form loss for all activities"
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 4
+    traitName: Fit
+    traitAbbreviation: Ft
+    traitDescription: x0,85  physical form loss for all activities
+    traitRarity: Common
+    traitIsNegative: 0
+  - traitNameEnum: 11
+    traitName: Careless
+    traitAbbreviation: Cl
+    traitDescription: Injury chance is increased x1,5 (applied to default value on
+      match calculation)
+    traitRarity: Common
+    traitIsNegative: 1
+  - traitNameEnum: 12
+    traitName: Fragile
+    traitAbbreviation: Fg
+    traitDescription: 'Trauma chance is increased x2 (applied to default value on
+      match calculation)  '
+    traitRarity: Rare
+    traitIsNegative: 1
+  - traitNameEnum: 13
+    traitName: Careful
+    traitAbbreviation: Cf
+    traitDescription: Trauma chance is decreased x0,5 (applied to default value on
+      match calculation)
+    traitRarity: Common
+    traitIsNegative: 0
+  - traitNameEnum: 14
+    traitName: Tough
+    traitAbbreviation: Tg
+    traitDescription: Trauma chance is decreased x0,25 (applied to default value
+      on match calculation)
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 15
+    traitName: Sprinter
+    traitAbbreviation: S
+    traitDescription: Can play longer within one match before losing efficiency
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 16
+    traitName: Good sprinter
+    traitAbbreviation: Spr
+    traitDescription: Can play much longer within one match before losing efficiency
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 17
+    traitName: Bad runner
+    traitAbbreviation: Br
+    traitDescription: 'Loses efficiency faster when playing match and needs replacement
+      sooner  '
+    traitRarity: 
+    traitIsNegative: 1
+  - traitNameEnum: 18
+    traitName: Awful runner
+    traitAbbreviation: Ar
+    traitDescription: Loses efficiency much faster when playing match and needs replacement
+      sooner
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 0
+    traitName: Ineducable
+    traitAbbreviation: Ie
+    traitDescription: x0,5 power growth
+    traitRarity: Rare
+    traitIsNegative: 1
+  - traitNameEnum: 1
+    traitName: Dumb
+    traitAbbreviation: D
+    traitDescription: x0,75 power growth
+    traitRarity: Common
+    traitIsNegative: 1
+  - traitNameEnum: 2
+    traitName: Smart
+    traitAbbreviation: S
+    traitDescription: x1,25 power growth
+    traitRarity: Common
+    traitIsNegative: 0
+  - traitNameEnum: 3
+    traitName: Prodigy
+    traitAbbreviation: P
+    traitDescription: 'x1,5 power growth  '
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 38
+    traitName: Weather resistant
+    traitAbbreviation: Wr
+    traitDescription: "Bad weather does not affect this player\u2019s performance "
+    traitRarity: Common
+    traitIsNegative: 0
+  - traitNameEnum: 39
+    traitName: Weather dependant
+    traitAbbreviation: Wd
+    traitDescription: "Bad weather has twice as powerful impact to this player\u2019s
+      performance"
+    traitRarity: 
+    traitIsNegative: 1
+  - traitNameEnum: 40
+    traitName: Individualist
+    traitAbbreviation: Ind
+    traitDescription: When 2 or more players with this trait play together in the
+      same match, their power is multiplied by 0,85. Trait effect does not stack
+    traitRarity: Common
+    traitIsNegative: 1
+  - traitNameEnum: 41
+    traitName: Conflict
+    traitAbbreviation: Cf
+    traitDescription: When 2 or more players with this trait play together in the
+      same match, their power is multiplied by 0,75. Trait effect does not stack
+    traitRarity: Rare
+    traitIsNegative: 1
+  - traitNameEnum: 42
+    traitName: Helpful
+    traitAbbreviation: Hf
+    traitDescription: When 2 or more players with this trait play together in the
+      same match, their power is multiplied by 1,15. Trait effect does not stack
+    traitRarity: Common
+    traitIsNegative: 0
+  - traitNameEnum: 43
+    traitName: Mutual assistance
+    traitAbbreviation: Ma
+    traitDescription: When 2 or more players with this trait play together in the
+      same match, their power is multiplied by 1,25. Trait effect does not stack
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 44
+    traitName: Demanding
+    traitAbbreviation: De
+    traitDescription: Payment is increased by 1.15
+    traitRarity: Common
+    traitIsNegative: 1
+  - traitNameEnum: 45
+    traitName: Greedy
+    traitAbbreviation: Gr
+    traitDescription: Payment is increased by 1.25
+    traitRarity: Rare
+    traitIsNegative: 1
+  - traitNameEnum: 46
+    traitName: Modest
+    traitAbbreviation: M
+    traitDescription: Payment is multiplied by 0,85
+    traitRarity: Common
+    traitIsNegative: 0
+  - traitNameEnum: 47
+    traitName: Ascetic
+    traitAbbreviation: Asc
+    traitDescription: Payment is multiplied by 0,75
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 48
+    traitName: Leader
+    traitAbbreviation: L
+    traitDescription: "Boosts entire team power by 1,1. Effects don\u2019t stack  "
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 8
+    traitName: Idol
+    traitAbbreviation: I
+    traitDescription: "Increases player\u2019s fame level x5."
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 49
+    traitName: Reached the limit
+    traitAbbreviation: Rl
+    traitDescription: Power gain of the player is multiplied by 0,2
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 50
+    traitName: Position Proficiency
+    traitAbbreviation: Pf
+    traitDescription: 'When playing on favorite position, power multiplier becomes
+      x2. If the player has additional position trait, x2 is applied to both '
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 51
+    traitName: 'Style proficiency  '
+    traitAbbreviation: Sp
+    traitDescription: 'When playing favorite style, power multiplier becomes x2.
+      If the player has additional position trait, x2 is applied to both '
+    traitRarity: 
+    traitIsNegative: 0
+  - traitNameEnum: 19
+    traitName: Additional position GK
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 20
+    traitName: Additional position DC
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 21
+    traitName: Additional position DL
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 22
+    traitName: Additional position DR
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 23
+    traitName: Additional position LR
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 24
+    traitName: Additional position LL
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 25
+    traitName: Additional position MC
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 26
+    traitName: Additional position ML
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 27
+    traitName: Additional position MR
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 28
+    traitName: Additional position MD
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 29
+    traitName: Additional position MA
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 30
+    traitName: Additional position FC
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 31
+    traitName: Additional position WL
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 32
+    traitName: Additional position WR
+    traitAbbreviation: Ap
+    traitDescription: Player gains additional favorite position, where plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 33
+    traitName: Additional preferred style - Super Defence
+    traitAbbreviation: As
+    traitDescription: Player gains additional favorite style, in which plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 34
+    traitName: Additional preferred style - Defensive
+    traitAbbreviation: As
+    traitDescription: Player gains additional favorite style, in which plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 35
+    traitName: Additional preferred style - Neutral
+    traitAbbreviation: As
+    traitDescription: Player gains additional favorite style, in which plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 36
+    traitName: Additional preferred style - Attacking
+    traitAbbreviation: As
+    traitDescription: Player gains additional favorite style, in which plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0
+  - traitNameEnum: 37
+    traitName: Additional preferred style - Super Attacking
+    traitAbbreviation: As
+    traitDescription: Player gains additional favorite style, in which plays with
+      x1,25 efficiency
+    traitRarity: Rare
+    traitIsNegative: 0

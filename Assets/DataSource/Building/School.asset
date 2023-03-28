@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c1def51f554eb2499d4ac5698053b24, type: 3}
+  m_Name: School
+  m_EditorClassIdentifier: 
+  typeHouse: 6
+  _nameHouse: Sport school
+  isUpgrading: 0
+  SpriteList:
+  - {fileID: 21300000, guid: b42165ec64029ab4c8dd538cb6c12d4c, type: 3}
+  - {fileID: 21300000, guid: 150c12aad511c1c4cae870ca79bc1259, type: 3}
+  - {fileID: 21300000, guid: dccde7d6528fe0645a1ed0293d6d413c, type: 3}
+  - {fileID: 21300000, guid: b0d768bba8d67be46a848e01c08484b6, type: 3}
+  - {fileID: 21300000, guid: 54505c48684b37743ace6edf649013c9, type: 3}
+  LevelImage:
+    keyData: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000
+    valueData:
+    - {fileID: 21300000, guid: b42165ec64029ab4c8dd538cb6c12d4c, type: 3}
+    - {fileID: 21300000, guid: b42165ec64029ab4c8dd538cb6c12d4c, type: 3}
+    - {fileID: 21300000, guid: b42165ec64029ab4c8dd538cb6c12d4c, type: 3}
+    - {fileID: 21300000, guid: b42165ec64029ab4c8dd538cb6c12d4c, type: 3}
+    - {fileID: 21300000, guid: 150c12aad511c1c4cae870ca79bc1259, type: 3}
+    - {fileID: 21300000, guid: 150c12aad511c1c4cae870ca79bc1259, type: 3}
+    - {fileID: 21300000, guid: 150c12aad511c1c4cae870ca79bc1259, type: 3}
+    - {fileID: 21300000, guid: 150c12aad511c1c4cae870ca79bc1259, type: 3}
+    - {fileID: 21300000, guid: 150c12aad511c1c4cae870ca79bc1259, type: 3}
+    - {fileID: 21300000, guid: dccde7d6528fe0645a1ed0293d6d413c, type: 3}
+    - {fileID: 21300000, guid: dccde7d6528fe0645a1ed0293d6d413c, type: 3}
+    - {fileID: 21300000, guid: dccde7d6528fe0645a1ed0293d6d413c, type: 3}
+    - {fileID: 21300000, guid: dccde7d6528fe0645a1ed0293d6d413c, type: 3}
+    - {fileID: 21300000, guid: dccde7d6528fe0645a1ed0293d6d413c, type: 3}
+    - {fileID: 21300000, guid: b0d768bba8d67be46a848e01c08484b6, type: 3}
+    - {fileID: 21300000, guid: b0d768bba8d67be46a848e01c08484b6, type: 3}
+    - {fileID: 21300000, guid: b0d768bba8d67be46a848e01c08484b6, type: 3}
+    - {fileID: 21300000, guid: b0d768bba8d67be46a848e01c08484b6, type: 3}
+    - {fileID: 21300000, guid: b0d768bba8d67be46a848e01c08484b6, type: 3}
+    - {fileID: 21300000, guid: 54505c48684b37743ace6edf649013c9, type: 3}
+  IdBuild:
+    _value: 134
+  BuildingType:
+    _value: 6
+  Level:
+    _value: 1
+  Description:
+    _value: qwe
+  BuildingLvLId:
+    _value: 6
+  MaintenanceCost:
+    _value: 2
+  BuildingCost:
+    _value: 10
+  CostInstantBuilding:
+    _value: 10
+  BuildTime:
+    _value: 10
+  InUpgrade:
+    _value: 0
