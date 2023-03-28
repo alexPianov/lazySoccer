@@ -12,5 +12,4 @@ Unity 3d, Jet-Brains Rider, Figma, Swagger UI (REST API)
 
 Assets & Integrations:
 ---
-Addressables Asset System, UniTasks, Anti-Cheat Toolkit,
-Text Animator, Lean GUI, etc.
+Addressables Asset System, UniTasks, Anti-Cheat Toolkit, Lean GUI, etc.
